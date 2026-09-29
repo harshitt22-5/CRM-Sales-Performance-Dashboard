@@ -117,13 +117,13 @@ The complete SQL script is available here:
 
 The supporting Excel workbook contains the analysis used alongside the CRM dashboard.
 
-[Open the Excel Analysis](Excel/CRM_Sales_Analysis.xlsx)
+[Download the Excel Analysis](Excel/CRM_Sales_Analysis.xlsx)
 
 ## 📊 Power BI Dashboard
 
 The complete Power BI project file is included in the repository.
 
-[Open the Power BI Dashboard File](PowerBI/crm_sales_dashboard.pbix)
+[Download the Power BI Dashboard File](PowerBI/crm_sales_dashboard.pbix)
 
 > The `.pbix` file requires Microsoft Power BI Desktop to open and interact with the report.
 
